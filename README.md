@@ -43,8 +43,7 @@ The checklist is a collection of common issues that I have has came across durin
 - [Asserting Contract from Code Size](./vulnerabilities/asserting-contract-from-code-size.md)
 
 
-**Info**
-The list is more likely to be used as a reminder of the most common vulnerabilities and questions to ask yourself during an audit. It is not a complete list of all possible vulnerabilities.
+- The list is more likely to be used as a reminder of the most common vulnerabilities and questions to ask yourself during an audit. It is not a complete list of all possible vulnerabilities.
 
 ### `external` / `public` functions
 
